@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-060: Proof of Efficacy Mapping to the Google Secure AI Framework (SAIF)"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-08"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-060-google-saif-mapping"
+abstract: "An independently authored Proof Protocol mapping connecting Google Secure AI Framework (SAIF) risk, control, component, and persona context to evidence, efficacy measurements, and proof artifacts, keeping non-empirical governance controls distinct from tested efficacy."
+keywords:
+  - Proof Protocol
+  - Proof of Efficacy
+  - mapping
+  - Google SAIF
+  - Secure AI Framework
+  - AI security
+  - agentic AI
+  - AI risk
+  - evidence
+  - efficacy
+  - proof
