@@ -122,7 +122,7 @@ The CoSAI Risk Map, derived from SAIF data donated by Google, is published at ht
 
 Google and SAIF names, risk and control names, trademarks, and expressive content remain subject to Google's applicable terms. Use of Google branding is governed by Google's Brand Permissions and SHOULD be checked at the authoritative source before any use beyond naming the framework.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted or access-controlled, contributors MUST NOT copy protected normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used where legally appropriate.
 
