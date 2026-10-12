@@ -7,7 +7,7 @@ authors:
     given-names: "Craig"
 version: "0.1"
 date-released: "2026-10-08"
-license: "CC-BY-4.0"
+license-url: "https://github.com/proofprotocol/PP-SPEC-060-google-saif-mapping/blob/main/LICENSE.md"
 repository-code: "https://github.com/proofprotocol/PP-SPEC-060-google-saif-mapping"
 abstract: "An independently authored Proof Protocol mapping connecting Google Secure AI Framework (SAIF) risk, control, component, and persona context to evidence, efficacy measurements, and proof artifacts, keeping non-empirical governance controls distinct from tested efficacy."
 keywords:
